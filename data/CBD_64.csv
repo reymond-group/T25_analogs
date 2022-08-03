@@ -1,0 +1,821 @@
+,name,seq,seq2,seq3,SMILES_Sequence,SMILES,MXFP,CBD
+0,XG1,(KL)8(KKL)4(KLL)2KLKL,KLBKLBLLBLKL,KL4KL4LL4LKL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KL4LL4LKL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  44  52  64  82 101 111
+ 104  92  61  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  18  23  28  34
+  43  54  60  57  52  34   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  17  21  24  31  40  46  46  43
+  32  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",7
+1,XG2,(KL)8(KKL)4(KLL)2KKLL,KLBKLBLLBKLL,KL4KL4LL4KLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KL4LL4KLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  44  52  64  82 101 111
+ 103  92  61  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  18  23  28  34
+  43  54  60  56  51  34   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  17  21  25  31  40  46  45  42
+  32  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",0
+2,XG3,(KL)8(KKL)4(KLL)2KLLK,KLBKLBLLBLLK,KL4KL4LL4LLK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4KL4LL4LLK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  44  52  64  81 100 111
+ 104  93  61  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  22  30  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  18  23  27  34
+  43  54  60  57  52  34   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  17  20  24  31  39  46  47  44
+  32  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",16
+3,XG4,(KL)8(KKL)4(KKL)2KLLL,KLBKLBKLBLLL,KL4KL4KL4LLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KL4KL4LLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  45  53  65  82 101 111
+ 104  92  61  14   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6  10  11  15  19  23  29  36
+  44  54  60  56  51  34   8   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   9  10  12  18  22  26  33  40  46  45  42
+  31  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",20
+4,XG5,(KL)8(KKL)4(KLL)2KKLK,KLBKLBLLBKLK,KL4KL4LL4KLK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4KL4LL4KLK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  44  52  64  82 101 112
+ 104  92  61  14   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  12  14  17  22  30  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  18  23  28  34
+  43  55  61  58  51  34   8   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   8  10  12  17  21  25  31  41  48  47  43
+  31  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",16
+5,XG6,(KL)8(KKL)4(KLL)2KKKL,KLBKLBLLBKKL,KL4KL4LL4KKL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KL4LL4KKL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  44  52  64  82 101 112
+ 104  92  61  14   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6  10  11  15  18  23  28  34
+  44  55  62  57  51  34   8   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   9  10  12  17  21  25  32  41  48  47  42
+  31  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",19
+6,XG7,(KL)8(KKL)4(KLL)2KLLL,KLBKLBLLBLLL,KL4KL4LL4LLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KL4LL4LLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  44  52  64  81 100 110
+ 103  93  62  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6   9  11  15  18  23  28  34
+  43  53  59  56  52  35   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  17  21  24  31  39  44  44  43
+  33  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",19
+7,XG8,(KL)8(KKL)4(KLK)2KLLL,KLBKLBLKBLLL,KL4KL4LK4LLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KL4LK4LLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  45  53  65  82 101 111
+ 103  92  61  14   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  12  14  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  19  23  28  35
+  44  55  60  56  51  34   8   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   8  10  13  18  22  26  33  41  46  45  42
+  31  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",17
+8,XG9,(KL)8(KKL)4(KLL)2KLKK,KLBKLBLLBLKK,KL4KL4LL4LKK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4KL4LL4LKK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  44  52  64  82 101 112
+ 105  93  61  14   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  12  14  17  22  30  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  18  23  27  34
+  43  55  62  58  52  34   8   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   8  10  12  17  20  24  31  40  48  48  43
+  31  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",24
+9,XG10,(KL)8(KLK)4(KLL)2KKLL,KLBLKBLLBKLL,KL4LK4LL4KLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LK4LL4KLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  45  53  65  82 101 111
+ 104  92  60  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  22  29  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  19  23  28  35
+  44  54  60  57  50  33   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  13  17  21  26  33  40  46  46  42
+  30  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",20
+10,XG11,(KL)8(KLK)4(KLL)2KLKL,KLBLKBLLBLKL,KL4LK4LL4LKL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LK4LL4LKL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  45  53  64  82 100 111
+ 104  92  60  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  22  29  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  18  23  28  35
+  44  53  60  57  51  33   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  17  21  26  32  39  46  46  42
+  30  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",19
+11,XG12,(KL)8(KLK)4(KLL)2KLLK,KLBLKBLLBLLK,KL4LK4LL4LLK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4LK4LL4LLK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  45  53  64  82 100 111
+ 104  92  60  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  22  29  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  18  23  28  35
+  44  53  60  58  51  33   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  17  21  26  32  39  46  47  43
+  30  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",22
+12,XG13,(KL)8(KKL)4(KKL)2KKLL,KLBKLBKLBKLL,KL4KL4KL4KLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KL4KL4KLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  45  53  65  83 101 112
+ 104  92  61  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  30  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6  10  11  15  19  23  29  36
+  45  55  61  57  50  33   8   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   9  10  13  18  22  27  33  42  47  46  42
+  31   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",38
+13,XG14,(KL)8(KKL)4(KKL)2KLLK,KLBKLBKLBLLK,KL4KL4KL4LLK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4KL4KL4LLK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  44  53  65  82 101 112
+ 105  92  61  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  30  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  18  23  29  36
+  44  55  61  58  51  33   8   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   8  10  12  18  22  26  33  41  47  47  43
+  31   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",32
+14,XG15,(KL)8(KKL)4(KKL)2KLKL,KLBKLBKLBLKL,KL4KL4KL4LKL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KL4KL4LKL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  44  53  65  82 101 112
+ 104  92  61  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  30  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6  10  11  15  18  23  29  36
+  45  55  61  57  51  33   8   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   9  10  12  18  22  26  33  41  47  47  42
+  31   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",32
+15,XG16,(KL)8(KKL)4(KLK)2KLLK,KLBKLBLKBLLK,KL4KL4LK4LLK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4KL4LK4LLK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  45  53  65  82 102 112
+ 104  92  61  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  30  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  19  23  28  35
+  45  56  61  57  51  33   8   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   8  10  12  18  22  26  33  42  48  47  42
+  31   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",34
+16,XG17,(KL)8(KLK)4(KLL)2KKLK,KLBLKBLLBKLK,KL4LK4LL4KLK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4LK4LL4KLK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  45  53  65  82 101 112
+ 105  92  60  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  12  14  17  22  29  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  19  23  28  35
+  45  54  61  58  51  33   8   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   8  10  12  17  21  26  33  41  47  47  42
+  30   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",31
+17,XG18,(KL)8(KKL)4(KLK)2KLKL,KLBKLBLKBLKL,KL4KL4LK4LKL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KL4LK4LKL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  45  53  65  82 102 112
+ 104  92  61  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  19  23  29  35
+  45  56  61  57  50  33   8   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   8  10  12  18  22  26  33  42  48  46  41
+  31   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",35
+18,XG19,(KL)8(KKL)4(KLL)2KKL,KLBKLBLLBKL,KL4KL4LL4KL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KL4LL4KL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  44  52  63  80  97 105
+  99  94  64  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  44  53  67  81  88  83  78  53  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   7   0   6   7   6  10  11  15  18  23  28  34
+  43  53  57  54  52  35   9   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   9  10  12  17  21  25  31  39  44  43  43
+  33  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",64
+19,XG20,(KL)8(KLK)4(KLL)2KLKK,KLBLKBLLBLKK,KL4LK4LL4LKK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4LK4LL4LKK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  44  53  64  82 101 112
+ 105  92  60  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  12  14  17  22  29  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  18  23  28  35
+  44  54  61  59  51  33   8   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   8  10  12  17  21  26  32  40  47  48  43
+  30   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",28
+20,XG21,(KL)8(KLL)4(KLK)2KLLK,KLBLLBLKBLLK,KL4LL4LK4LLK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4LL4LK4LLK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  44  52  64  82 101 111
+ 104  90  60  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6   9  11  15  18  22  27  35
+  44  54  61  56  48  33   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  16  20  25  32  40  47  46  39
+  29  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",28
+21,XG22,(KL)8(KLK)4(KLK)2KLLL,KLBLKBLKBLLL,KL4LK4LK4LLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LK4LK4LLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  45  53  65  83 101 111
+ 104  92  60  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  12  14  17  22  29  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  19  24  29  36
+  45  54  60  56  50  33   8   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   8  10  13  18  22  27  34  41  46  45  41
+  30   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",33
+22,XG23,(KL)8(KLL)4(KKL)2KLLK,KLBLLBKLBLLK,KL4LL4KL4LLK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4LL4KL4LLK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  44  52  64  82 100 111
+ 104  91  60  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6   9  11  15  18  22  28  35
+  44  53  60  57  48  33   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  16  20  25  32  39  46  46  39
+  30  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",27
+23,XG24,(KL)8(KKK)4(KLL)2KLLL,KLBKKBLLBLLL,KL4KK4LL4LLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KK4LL4LLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  45  53  65  82 101 110
+ 104  94  61  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  29  38  45  54  69  85  93  86  77  51  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  19  24  29  36
+  45  54  59  58  54  34   8   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   8  10  13  18  22  27  33  40  45  47  46
+  32   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",44
+24,XG25,(KL)8(KLL)4(KKL)2KLLL,KLBLLBKLBLLL,KL4LL4KL4LLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LL4KL4LLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  44  52  64  82 100 110
+ 103  90  60  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6   9  11  15  18  22  28  35
+  43  53  59  55  48  33   8   0   0   0   0   0   0   0   0   0  13   0
+   0   9   0   1   9   4   6   8  10  12  16  20  25  32  38  44  44  39
+  30  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",32
+25,XG26,(KL)8(KLL)4(KKL)2KKKL,KLBLLBKLBKKL,KL4LL4KL4KKL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LL4KL4KKL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  44  52  65  83 101 112
+ 104  90  60  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6   9  11  15  18  22  28  36
+  44  54  61  57  47  32   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  17  21  26  33  40  48  46  38
+  29  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",36
+26,XG27,(LK)8(KLK)4(KLL)2KLKL,LKBLKBLLBLKL,LK4LK4LL4LKL,"('CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)O', 'LK4LK4LL4LKL')",CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)O,"[  5   5   7   8   9  10  11  14  17  21  27  36  45  53  64  83 101 112
+ 103  92  60  12   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  22  29  38  45  53  69  85  93  87  76  51  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6  10  11  15  20  24  28  35
+  45  54  61  56  51  32   5   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  14  18  22  25  32  41  47  45  42
+  29   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",39
+27,XG28,(LK)8(KLK)4(KLL)2KLLL,LKBLKBLLBLLL,LK4LK4LL4LLL,"('CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O', 'LK4LK4LL4LLL')",CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O,"[  5   5   7   8   9  10  11  14  17  21  27  36  45  53  64  82 100 111
+ 103  92  60  12   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  29  38  45  53  69  85  93  87  76  51  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6  10  11  15  20  24  28  35
+  44  53  59  55  51  32   5   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  14  18  22  25  32  39  45  44  43
+  30   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",43
+28,XG29,(LK)8(KKL)4(KLL)2KLLK,LKBKLBLLBLLK,LK4KL4LL4LLK,"('CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'LK4KL4LL4LLK')",CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  14  17  21  27  36  45  52  63  82 101 112
+ 103  93  61  12   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  22  29  38  45  53  69  85  93  87  76  51  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6  10  11  15  20  23  27  34
+  43  55  61  56  52  33   5   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   7   8  10  14  18  20  24  31  41  48  45  44
+  31   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",38
+29,XG30,(LK)8(KLL)4(KKL)2KLLL,LKBLLBKLBLLL,LK4LL4KL4LLL,"('CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O', 'LK4LL4KL4LLL')",CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O,"[  5   5   7   8   9  10  11  14  17  21  27  36  45  52  64  82 100 111
+ 102  90  60  12   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  29  38  45  53  69  85  93  87  76  50  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6  10  11  15  20  23  27  35
+  44  53  60  54  48  32   6   0   0   0   0   0   0   0   0   0  13   0
+   0   9   0   1   9   4   7   8  10  14  17  20  25  32  39  46  43  38
+  30   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",50
+30,XG31,(LK)8(KLL)4(KKL)2KLLK,LKBLLBKLBLLK,LK4LL4KL4LLK,"('CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'LK4LL4KL4LLK')",CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  14  17  21  27  36  45  52  64  83 100 112
+ 103  90  60  12   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  29  38  45  53  69  85  93  87  76  50  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6  10  11  15  19  23  27  35
+  44  54  61  56  48  32   6   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   7   8  10  13  16  20  25  32  40  48  45  39
+  29   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",46
+31,XG32,(LK)8(KLK)4(KLL)2KLKK,LKBLKBLLBLKK,LK4LK4LL4LKK,"('CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O', 'LK4LK4LL4LKK')",CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  14  17  21  27  36  45  53  64  83 101 112
+ 104  92  60  12   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  12  14  17  22  29  38  45  53  69  85  93  87  77  51  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6  10  11  15  20  23  28  35
+  45  55  62  58  51  31   5   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   8  10  14  17  21  25  33  41  49  47  42
+  29   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",50
+32,XG33,(LK)8(KKL)4(KLL)2KKKL,LKBKLBLLBKKL,LK4KL4LL4KKL,"('CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)O', 'LK4KL4LL4KKL')",CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)O,"[  5   5   7   8   9  10  11  14  17  21  27  36  45  53  63  82 102 113
+ 103  92  61  12   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  12  14  17  22  29  38  45  53  69  85  94  87  76  51  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6  10  11  15  20  23  27  34
+  44  56  63  56  51  33   5   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   7   9  11  14  18  20  24  32  43  50  45  42
+  30   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",52
+33,XG34,(LK)8(KLL)4(KKL)2KKLL,LKBLLBKLBKLL,LK4LL4KL4KLL,"('CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O', 'LK4LL4KL4KLL')",CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O,"[  5   5   7   8   9  10  11  14  17  21  27  36  45  52  64  83 101 112
+ 103  90  60  12   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  29  38  45  53  69  85  93  87  76  50  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6  10  11  15  20  23  27  35
+  45  54  62  54  47  32   6   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   7   9  10  14  17  21  26  33  41  48  43  37
+  29   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",58
+34,XG35,(LK)8(KKK)4(KLL)2KLLL,LKBKKBLLBLLL,LK4KK4LL4LLL,"('CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O', 'LK4KK4LL4LLL')",CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O,"[  5   5   7   8   9  10  11  14  17  21  27  36  46  54  64  83 101 111
+ 103  94  61  12   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  12  14  17  22  29  38  45  53  69  85  93  87  77  51  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   7  10  11  15  21  25  29  35
+  45  55  60  57  54  33   5   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   8  11  15  19  23  26  33  41  46  46  47
+  31   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",61
+35,XG36,(LK)8(KLK)4(KKL)2KLLK,LKBLKBKLBLLK,LK4LK4KL4LLK,"('CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'LK4LK4KL4LLK')",CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  14  17  21  27  36  45  53  65  83 101 112
+ 104  92  60  12   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  12  14  17  21  29  38  45  53  69  85  93  87  77  51  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6  10  11  15  20  24  29  36
+  46  55  61  57  50  31   5   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   8  10  14  18  23  27  34  42  48  47  42
+  28   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",63
+36,XG37,(LK)8(KLLL)4(KK)2KLL,LKBLLLBKBLL,LK4LLL4K4LL,"('CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O', 'LK4LLL4K4LL')",CC(C)C[C@H](N)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)O,"[  5   5   7   8   9  10  11  14  17  20  26  35  44  51  60  77 100 115
+ 117  98  58  12   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  21  29  37  44  51  64  84  97  99  84  49  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6  10  11  15  20  23  26  31
+  42  54  62  62  51  31   5   0   0   0   0   0   0   0   0   0  13   0
+   0   9   0   1   9   4   6   8  10  14  17  19  22  30  40  47  49  41
+  29   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",130
+37,XG38,(LL)8(KKL)4(KLL)2KLLK,LLBKLBLLBLLK,LL4KL4LL4LLK,"('CC(C)C[C@H](N)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'LL4KL4LL4LLK')",CC(C)C[C@H](N)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  11  11  14  17  21  27  36  45  52  64  83 101 110
+ 101  90  56  10   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  45  53  69  85  93  86  76  50  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   9   0   7   7   5  10  11  16  20  23  27  35
+  44  55  58  52  46  24   3   0   0   0   0   0   0   0   0   0  14   0
+   0  10   0   1   9   4   7   9  11  14  17  20  25  32  41  43  40  37
+  19   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",106
+38,XG39,(LL)8(KKK)4(KLL)2KLLK,LLBKKBLLBLLK,LL4KK4LL4LLK,"('CC(C)C[C@H](N)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'LL4KK4LL4LLK')",CC(C)C[C@H](N)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  14  17  21  27  37  46  53  65  83 102 110
+ 102  91  55  10   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  22  30  38  45  53  69  85  93  86  77  50  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6  10  11  17  21  24  29  36
+  46  55  58  54  48  23   2   0   0   0   0   0   0   0   0   0  13   0
+   0   9   0   1   9   4   7   9  12  15  19  22  27  34  41  44  44  39
+  18   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",110
+39,XG40,(LL)8(KLL)4(KKL)2KLKL,LLBLLBKLBLKL,LL4LL4KL4LKL,"('CC(C)C[C@H](N)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)O', 'LL4LL4KL4LKL')",CC(C)C[C@H](N)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)O,"[  5   5   7   8   9  11  11  14  17  21  27  36  45  52  65  83 101 110
+ 100  87  55  10   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  45  53  69  85  93  87  76  50  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   9   0   7   7   5  10  11  16  19  23  28  37
+  45  54  58  50  42  23   3   0   0   0   0   0   0   0   0   0  14   0
+   0  11   0   1   9   3   7   9  11  13  17  21  27  34  40  43  38  30
+  17   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",132
+40,XG41,(KL)8(KKL)4(KKL)2KKL,KLBKLBKLBKL,KL4KL4KL4KL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KL4KL4KL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  45  53  64  81  97 105
+ 100  94  63  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  18  22  30  38  44  53  67  81  88  83  78  53  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6  10  12  15  19  24  29  36
+  44  54  58  55  51  34   8   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   9  10  13  18  22  26  33  41  45  44  42
+  31  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",68
+41,XG42,(KL)8(KKK)4(KKL)2KLLL,KLBKKBKLBLLL,KL4KK4KL4LLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KK4KL4LLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   6   8   9  10  11  13  17  21  27  36  45  54  66  83 101 111
+ 105  94  61  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  29  38  45  54  69  85  93  87  77  51  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   9   0   3   7   0   6   7   6   9  11  15  19  25  30  37
+  46  55  60  58  53  33   8   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   5   6   8  10  14  19  23  28  35  41  46  47  45
+  31   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",59
+42,XG43,(KL)8(KLL)4(KLL)2KLLL,KLBLLBLLBLLL,KL4LL4LL4LLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LL4LL4LLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  11  11  13  17  20  27  35  44  52  64  81  99 110
+ 103  91  61  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  45  54  69  85  93  87  76  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   7   7   5   9  11  15  18  22  26  34
+  42  52  58  55  49  34   9   0   0   0   0   0   0   0   0   0  13   0
+   0   9   0   1   9   4   6   8  10  11  16  19  24  29  37  43  43  39
+  32  11   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",45
+43,XG44,(KL)8(KLL)4(KKL)2KKL,KLBLLBKLBKL,KL4LL4KL4KL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LL4KL4KL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  44  52  64  81  96 105
+  99  92  62  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  44  53  68  81  87  83  78  52  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6  10  11  15  18  23  28  35
+  43  52  57  53  48  34   9   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  17  21  26  32  39  44  43  38
+  30  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",68
+44,XG45,(KL)8(KLK)4(KLL)2KLLL,KLBLKBLLBLLL,KL4LK4LL4LLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LK4LL4LLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  35  45  53  64  82 100 110
+ 103  92  61  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  29  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6   9  11  15  19  23  28  35
+  44  53  58  56  51  34   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  17  21  26  32  38  44  45  42
+  31  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",23
+45,XG46,(KL)8(KKK)4(KLL)2KKLL,KLBKKBLLBKLL,KL4KK4LL4KLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KK4LL4KLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   6   8   9  10  11  13  17  21  27  36  45  53  65  83 102 111
+ 104  94  61  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  29  38  45  54  69  85  93  87  77  51  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   9   0   3   7   0   6   7   6   9  11  15  19  24  29  36
+  45  55  60  58  53  34   8   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   8  10  14  18  22  27  34  41  46  47  45
+  31   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",47
+46,XG47,(KK)8(KLL)4(KKL)2KKLL,KKBLLBKLBKLL,KK4LL4KL4KLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KK4LL4KL4KLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   6   7   9  10  11  13  17  20  26  35  44  52  64  82 100 113
+ 106  93  65  16   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  12  15  17  22  29  38  45  54  69  84  93  87  76  51  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   9   0   3   7   0   6   7   7   9  11  14  19  23  27  35
+  43  54  63  60  52  41  12   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   5   6   8  10  13  16  20  25  31  40  50  50  43
+  39  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",76
+47,XG48,(KK)8(KLK)4(KLL)2KKLL,KKBLKBLLBKLL,KK4LK4LL4KLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KK4LK4LL4KLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   6   7   9  10  11  13  17  20  26  35  45  53  64  82 101 113
+ 106  95  65  16   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  29  38  45  54  69  85  93  87  76  51  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   9   0   3   7   0   5   7   7   9  11  14  19  23  28  35
+  44  54  63  60  55  41  11   0   0   0   0   0   0   0   0   0  12   0
+   0   6   0   1   9   5   6   8  10  14  17  21  26  32  40  49  50  47
+  40  14   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",86
+48,XG49,(KK)8(KLL)4(KKL)2KKLK,KKBLLBKLBKLK,KK4LL4KL4KLK,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O', 'KK4LL4KL4KLK')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   6   7   9  10  11  13  17  20  26  35  44  52  64  82 101 114
+ 107  93  65  16   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  29  38  45  54  69  84  93  87  76  51  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   9   0   3   7   0   5   7   7   9  11  14  19  23  27  35
+  43  54  64  62  53  40  12   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   5   6   8   9  13  16  20  25  32  40  51  52  44
+  38  14   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",85
+49,XG50,(KL)8(KKLL)4(KK)2KLL,KLBKLLBKBLL,KL4KLL4K4LL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KLL4K4LL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   7   9  10  11  13  17  20  26  35  44  51  61  78 100 116
+ 118 100  60  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  21  29  37  43  51  65  84  97  99  84  49  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  19  23  27  33
+  42  54  63  63  54  33   8   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   8  10  13  17  20  24  31  40  48  50  46
+  31   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",119
+50,XG51,(KL)8(KLK)4(KKK)2KLLL,KLBLKBKKBLLL,KL4LK4KK4LLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LK4KK4LLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  45  54  66  84 102 111
+ 104  91  60  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  29  38  45  54  69  85  93  87  77  50  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  19  25  30  38
+  47  55  60  57  49  32   8   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   8  10  13  19  23  29  36  42  47  46  40
+  28   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",62
+51,XG52,(KL)8(KLK)4(KKL)2KLL,KLBLKBKLBLL,KL4LK4KL4LL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LK4KL4LL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  45  53  65  81  96 104
+ 100  94  62  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  44  53  68  81  87  83  78  52  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  19  24  29  36
+  44  52  56  55  51  34   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  13  18  22  27  33  39  43  44  42
+  30  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",71
+52,XG53,(KL)8(KKL)4(KLL)2KK,KLBKLBLLBK,KL4KL4LL4K,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4KL4LL4K')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O,"[ 5  5  7  8  9 10 11 13 17 21 27 36 44 52 62 77 91 98 98 97 66 15  0  0
+  0  0  0  0  0  0  0  6  5  6  6  6  7  9 12 15 18 22 30 38 44 52 65 76
+ 82 82 81 55 12  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 10  0  4
+  8  0  6  7  6 10 11 15 18 23 27 34 41 50 54 53 53 37  9  0  0  0  0  0
+  0  0  0  0 13  0  0  8  0  1  9  4  6  9 10 12 17 21 24 30 38 42 43 43
+ 34 10  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0]",130
+53,XG54,(KL)8(KLLL)4(KK)2KKL,KLBLLLBKBKL,KL4LLL4K4KL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LLL4K4KL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  20  26  35  43  51  61  78 100 116
+ 117  98  59  13   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  21  29  37  43  51  65  84  97  99  84  49  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6   9  11  15  18  23  27  33
+  42  54  62  62  51  32   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  17  20  24  30  39  47  49  41
+  29  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",108
+54,XG55,(KL)8(KLLL)4(KK)2KLL,KLBLLLBKBLL,KL4LLL4K4LL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4LLL4K4LL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  20  26  35  43  51  61  77  99 115
+ 117  98  59  13   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  14  17  21  29  37  43  51  65  84  97  99  84  49  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   7   6   9  11  15  18  22  26  32
+  42  53  61  61  52  33   8   0   0   0   0   0   0   0   0   0  13   0
+   0   9   0   1   9   4   6   8  10  12  17  19  24  30  38  46  48  42
+  30  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",110
+55,XG56,(KL)8(KKLL)4(KL)2KKL,KLBKLLBLBKL,KL4KLL4L4KL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KLL4L4KL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  26  35  43  51  60  77  99 116
+ 118 100  60  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  21  29  37  43  51  65  84  97  99  84  49  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6   9  11  15  18  22  26  32
+  41  53  63  64  55  34   8   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   8  10  12  16  20  23  29  39  48  51  46
+  32  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",129
+56,XG57,(KL)8(KK)4(KLLL)2KLKK,KLBKBLLLBLKK,KL4K4LLL4LKK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4K4LLL4LKK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O,"[ 5  5  7  8  9 10 11 13 17 21 27 36 46 56 68 81 94 98 90 88 64 15  0  0
+  0  0  0  0  0  0  0  6  5  6  6  6  7  9 12 15 18 22 30 39 48 57 68 79
+ 82 75 72 53 12  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 10  0  3
+  7  0  6  7  6 10 11 15 19 25 30 36 43 51 54 51 50 36  9  0  0  0  0  0
+  0  0  0  0 13  0  0  8  0  1  9  4  6  8 10 13 18 22 26 32 38 42 42 42
+ 33 10  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0]",140
+57,XG58,(KL)8(KKLL)4(KK)2KKLL,KLBKLLBKBKLL,KL4KLL4K4KLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KL4KLL4K4KLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   6   7   9  10  11  13  16  20  26  35  43  52  62  80 104 122
+ 121  98  57  13   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  21  29  37  44  52  67  87 102 102  82  47  10   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   9   0   3   7   0   6   7   6   9  11  15  18  23  28  34
+  44  57  67  65  53  32   8   0   0   0   0   0   0   0   0   0  12   0
+   0   7   0   1   9   4   6   8  10  13  17  21  25  32  42  51  52  44
+  30   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",148
+58,XG59,(KL)8(KLL)4(KKL)2KK,KLBLLBKLBK,KL4LL4KL4K,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4LL4KL4K')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O,"[ 5  5  7  8  9 11 11 14 17 21 27 36 44 51 62 78 91 99 98 95 65 15  0  0
+  0  0  0  0  0  0  0  6  5  6  6  6  7  9 12 15 18 22 30 38 44 52 65 76
+ 82 82 81 54 12  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 10  0  4
+  8  0  6  7  6 10 11 15 18 22 27 35 42 50 55 53 49 35  9  0  0  0  0  0
+  0  0  0  0 13  0  0  8  0  1  9  4  6  8 10 12 17 20 25 31 38 43 42 39
+ 31 11  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0]",125
+59,XG60,(KL)8(KL)4(KKLL)2KLKK,KLBLBKLLBLKK,KL4L4KLL4LKK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4L4KLL4LKK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O,"[ 5  5  7  8  9 11 11 14 17 21 27 36 46 56 68 81 94 98 91 87 63 15  0  0
+  0  0  0  0  0  0  0  6  5  6  6  6  7  9 12 15 18 22 30 39 47 57 69 79
+ 82 75 72 53 12  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 10  0  4
+  8  0  6  7  6 10 11 15 18 24 30 37 43 50 54 51 47 34  9  0  0  0  0  0
+  0  0  0  0 13  0  0  8  0  1  9  4  6  8 10 12 17 22 27 32 38 42 42 38
+ 30 10  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0]",146
+60,XG61,(KK)8(KKK)4(KLL)2KLLL,KKBKKBLLBLLL,KK4KK4LL4LLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KK4KK4LL4LLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   6   7   9  10  11  13  17  20  27  35  45  53  64  82 101 112
+ 107  97  66  16   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  22  29  38  45  54  69  85  93  87  77  51  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   9   0   3   6   0   5   7   7   9  11  14  20  24  29  35
+  44  54  62  61  59  42  11   0   0   0   0   0   0   0   0   0  11   0
+   0   6   0   1   9   5   6   8  10  14  18  22  27  32  40  48  50  51
+  42  14   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",107
+61,XG62,(KLL)8(KK)4(KLL)2KKL,KLLBKBLLBKL,KLL4K4LL4KL,"('CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'KLL4K4LL4KL')",CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   6   7   9  10  11  13  16  19  25  34  44  56  70  86 103 109
+ 104 107  71  14   0   0   0   0   0   0   0   0   0   6   5   5   6   6
+   7   9  11  14  17  20  27  37  47  59  72  86  92  87  90  62  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   9   0   3   7   0   6   7   6   9  10  14  19  24  30  38
+  47  55  58  57  57  36   8   0   0   0   0   0   0   0   0   0  12   0
+   0   8   0   1   9   4   6   8   9  13  17  22  28  35  41  45  46  45
+  32   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",144
+62,XG63,(K)8(KLKL)4(KLL)2KKLL,KBLKLBLLBKLL,K4LKL4LL4KLL,"('CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@@H](N)CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@@H](N)CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@@H](N)CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@@H](N)CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)O', 'K4LKL4LL4KLL')",CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@@H](N)CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@@H](N)CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@@H](N)CCCCN)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@@H](N)CCCCN)NC(=O)[C@@H](N)CCCCN)C(=O)O,"[  5   5   7   8   9  11  12  14  18  22  28  35  43  52  64  82  98 103
+  96  79  46  10   0   0   0   0   0   0   0   0   0   7   5   6   6   6
+   7  10  12  16  19  23  30  37  45  55  69  82  85  79  64  36   7   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   4   8   0   6   8   7  11  12  15  18  23  27  33
+  43  52  57  53  45  29   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   5   6   9  10  13  17  19  24  30  38  44  44  39
+  29  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",162
+63,XG64,(KL)8(KKL)4(KLL)2KKK,KLBKLBLLBKK,KL4KL4LL4KK,"('CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O', 'KL4KL4LL4KK')",CC(C)C[C@H](NC(=O)[C@@H](N)CCCCN)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCNC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)O,"[  5   5   7   8   9  10  11  13  17  21  27  36  44  52  63  80  97 106
+ 100  94  63  14   0   0   0   0   0   0   0   0   0   6   5   6   6   6
+   7   9  12  15  17  22  30  38  44  53  67  81  88  83  78  53  11   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0  10   0   3   7   0   6   7   6  10  11  15  18  23  28  34
+  43  53  59  55  52  35   8   0   0   0   0   0   0   0   0   0  13   0
+   0   8   0   1   9   4   6   8  10  12  17  21  25  31  40  46  45  42
+  32  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0]",48
